@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# MY PROFILE
+<span style="color: yellow"> MY PROFILE</span>
 
 ## 이름: 곽우영 
 * * *
