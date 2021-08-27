@@ -10,7 +10,7 @@
 협력하여 발전 해 나가는 개발자가 되고 싶습니다.</h1>
 <div align="left">
 
-<img src="https://user-images.githubusercontent.com/77717717/131113790-0c56fd2f-9f92-49b5-b158-041732816976.png" align="left" height="500px">
+<img src="hhttps://media.vlpt.us/images/wjdfbd1121/post/ab4295fb-55d1-4fc7-b940-2b8c902f53b0/1493598844050.gif" align="left" height="500px">
 
 </div>
 
