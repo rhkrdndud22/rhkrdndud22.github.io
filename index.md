@@ -15,7 +15,7 @@
 </div>
 
 
-<div align="center" >
+<div align="left" >
 <h1>이름: 곽우영 </h1>
   
 <h1>생년월일: 1996년 12월 18일  </h1>
