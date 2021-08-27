@@ -27,11 +27,11 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Skills
     link: /skills-and-offers
     icon: ""
 
-  - text: Contact Me
+  - text: Education
     link: /contact
     icon: ""
 
@@ -39,27 +39,19 @@ menu:
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: PortFolio
     link: /blog
     icon: ""
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
+ 
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/rhkrdndud22
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
-
-  - name: twitter
-    link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
-
+  
+ 
 
     
