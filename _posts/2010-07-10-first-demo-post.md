@@ -1,19 +1,36 @@
 ---
 layout: post
-title: First Demo Post
-date: 2020-07-10 13:32:20 +0300
+title: Python 내 님 찾기(팀 프로젝트)
+date: 2020-05-10 13:32:20 +0300
 description: You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-image: /assets/images/posts/1.jpg
+image: /assets/images/posts/team.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
+# 출생, 비혼, 남녀갈등 등으로 연애 및 혼인율이 낮아져가는 시대에 사람들이 원하는 사람을 만날 확률이 어느정도 될까가 궁금하여 개발하게 되었습니다.
 
-Risus nullam eget felis eget. Id faucibus nisl tincidunt eget nullam non nisi. Nam libero justo laoreet sit. Et pharetra pharetra massa massa ultricies mi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Scelerisque eu ultrices vitae auctor. Consequat interdum varius sit amet mattis vulputate enim. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Eget dolor morbi non arcu risus quis varius. Quis viverra nibh cras pulvinar. Ac ut consequat semper viverra nam libero justo. Faucibus et molestie ac feugiat sed lectus vestibulum. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Blandit turpis cursus in hac. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Elementum nibh tellus molestie nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Integer quis auctor elit sed vulputate mi sit amet mauris. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Non pulvinar neque laoreet suspendisse.
+<center><img src="https://user-images.githubusercontent.com/77717717/131209341-0b176647-8c67-4170-ad3b-7ea30c9eb84c.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209345-582d4681-e31d-4163-8e47-2f5cabd1fef6.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209348-4e3a1e94-8444-405d-9df8-167a42fe4991.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209350-5acccb4e-c251-4788-bbc3-eacba7bbae8f.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209353-877d56a2-67f8-4e7c-898c-853b344f2620.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209356-c7ea6df6-821e-4f8b-b239-3f34e7db2185.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209361-f547d83e-cd85-4bc7-bb6d-c2335c5929a5.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209366-69a8ea7b-a8a6-4cf4-a8c1-cd6ab74213fe.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209368-b35d4fdf-934e-4f1e-81da-98c9dcd1a50d.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209371-c1dd2318-14e9-4aff-a246-613f1e39b821.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209377-5ab4e531-1ca6-429a-99bf-67e335f6c049.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209385-5c097c3e-c634-4895-b280-bd3a69a1a308.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209317-2ed80ef8-e1a0-4497-a8eb-4b4c4018fa4f.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209321-18f4d574-c6bb-472c-aa2e-e0ae2ed0b6c9.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209328-0506f5a3-5593-46d7-8bd4-1b28c22f763c.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209330-3775076d-19a8-41b7-a8ff-6348e7152044.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209333-ed694e28-ef4c-43a1-a0da-d4cebe4499c7.jpg" width="1500" height="800"></center>
+<center><img src="https://user-images.githubusercontent.com/77717717/131209334-443b5b1a-a2f5-4809-b618-a22a0351a710.jpg" width="1500" height="800"></center>
 
-Massa massa ultricies mi quis hendrerit dolor magna eget. Eget est lorem ipsum dolor sit amet. Sit amet volutpat consequat mauris nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed risus ultricies tristique nulla aliquet enim tortor. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Id aliquet risus feugiat in. Massa sapien faucibus et molestie ac feugiat sed. Pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh praesent tristique magna sit amet purus gravida quis blandit. Fames ac turpis egestas sed tempus urna. Tortor consequat id porta nibh venenatis cras sed felis. Aenean et tortor at risus viverra adipiscing at in. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac turpis egestas maecenas pharetra convallis. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Amet venenatis urna cursus eget nunc. Elit ut aliquam purus sit amet luctus venenatis. Amet dictum sit amet justo donec enim diam vulputate ut.
 
-Gravida neque convallis a cras. Nisi porta lorem mollis aliquam ut. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Euismod elementum nisi quis eleifend. Vel fringilla est ullamcorper eget nulla facilisi etiam. Urna neque viverra justo nec ultrices dui. Morbi blandit cursus risus at ultrices mi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Sit amet porttitor eget dolor morbi non arcu risus quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a.
 
-Vel pharetra vel turpis nunc eget lorem. Nunc sed blandit libero volutpat sed cras ornare. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Euismod nisi porta lorem mollis aliquam ut. Magna ac placerat vestibulum lectus. Semper risus in hendrerit gravida rutrum quisque non. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Neque vitae tempus quam pellentesque nec. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. At auctor urna nunc id cursus metus aliquam eleifend mi. Amet consectetur adipiscing elit pellentesque. Eget egestas purus viverra accumsan. Quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed.
+
+# Click the button below to see the code
+<a href="https://github.com/rhkrdndud22/Python_Project/tree/main/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%8C%80" target="https://github.com/rhkrdndud22/MovieFind"><img width="200" height="100" src="https://img.shields.io/badge/CODE-5C2D91??style=flat-square&logo=Python &logoColor=white"/></a>
