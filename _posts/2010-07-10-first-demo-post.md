@@ -3,7 +3,7 @@ layout: post
 title: Python 내 님 찾기(팀 프로젝트)
 date: 2020-05-10 13:32:20 +0300
 description: You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-image: /assets/images/posts/team.jpg
+image: docs/assets/images/posts/team.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
