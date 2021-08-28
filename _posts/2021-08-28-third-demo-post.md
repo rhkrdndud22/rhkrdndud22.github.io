@@ -3,7 +3,7 @@ layout: post
 title: 영화 찾기 프로그램(API 활용)
 date: 2021-06-20 13:32:20 +0300
 description: You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-image: docs/assets/images/posts/movie.png
+image: docs/assets/images/posts/movie.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
