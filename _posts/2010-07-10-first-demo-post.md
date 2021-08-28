@@ -33,4 +33,4 @@ tags: [Holidays, Hawaii]
 
 
 # Click the button below to see the code
-<a href="https://github.com/rhkrdndud22/Python_Project/tree/main/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%8C%80" target="https://github.com/rhkrdndud22/MovieFind"><img width="200" height="100" src="https://img.shields.io/badge/CODE-5C2D91??style=flat-square&logo=Python &logoColor=white"/></a>
+<a href="https://github.com/rhkrdndud22/Python_Project/tree/main/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%8C%80" target="https://github.com/rhkrdndud22/MovieFind"><img width="200" height="100" src="https://img.shields.io/badge/CODE-5C2D91??style=flat-square&logo=Python&logoColor=white"/></a>
