@@ -28,4 +28,4 @@ tags: [Holidays, Hawaii]
 <center><img src="https://user-images.githubusercontent.com/77717717/131205711-1f54c26a-dd77-463e-bbd9-2edcce6d26d6.jpg" width="1500" height="800"></center>
 
 # Click the button below to see the code
-<a href="[https://github.com/rhkrdndud22/MovieFind" target="https://github.com/rhkrdndud22/MovieFind"><img width="200" height="100" src="https://img.shields.io/badge/CODE-5C2D91??style=flat-square&logo=C sharp&logoColor=white"/></a>
+<a href="https://github.com/rhkrdndud22/MovieFind" target="https://github.com/rhkrdndud22/MovieFind"><img width="200" height="100" src="https://img.shields.io/badge/CODE-5C2D91??style=flat-square&logo=C sharp&logoColor=white"/></a>
