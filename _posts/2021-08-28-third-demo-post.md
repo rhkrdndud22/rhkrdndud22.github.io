@@ -3,7 +3,7 @@ layout: post
 title: 영화 찾기 프로그램(API 활용)
 date: 2021-06-20 13:32:20 +0300
 description: You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-image: /assets/images/movie.png
+image: /assets/images/posts/movie.PNG
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
@@ -25,7 +25,7 @@ tags: [Holidays, Hawaii]
 <center><img src="https://user-images.githubusercontent.com/77717717/131205707-cc6d9c22-e944-4fe5-99d6-8d45537c8c61.jpg" width="1500" height="800"></center>
 <center><img src="https://user-images.githubusercontent.com/77717717/131205709-dd59336a-3d42-4b17-9f95-bd605b51f9f9.jpg" width="1500" height="800"></center>
 <center><img src="https://user-images.githubusercontent.com/77717717/131205711-1f54c26a-dd77-463e-bbd9-2edcce6d26d6.jpg" width="1500" height="800"></center>
-<center><img src="https://user-images.githubusercontent.com/77717717/131205711-1f54c26a-dd77-463e-bbd9-2edcce6d26d6.jpg" width="1500" height="800"></center>
+
 
 # Click the button below to see the code
 <a href="https://github.com/rhkrdndud22/MovieFind" target="https://github.com/rhkrdndud22/MovieFind"><img width="200" height="100" src="https://img.shields.io/badge/CODE-5C2D91??style=flat-square&logo=C sharp&logoColor=white"/></a>
