@@ -1,9 +1,10 @@
 
-# <p>My Infomation &#128400;</p> 
-##  <p>&#128104; 이름: 곽우영</p>
-## <center>:telephone_receiver: 전화번호: 010-2191-6995</center>
-## <center> :house: 주소:경상북도 경주</center>
-## <center> :birthday: 생년월일:1996.12.18</center>
-## <center> :e-mail: e-mail:rhkrdndud22@naver.com</center>
+# My Infomation &#128400;
+## &#128104; 이름: 곽우영
+## &#128222; 전화번호: 곽우영
+## &#128146; 주소: 곽우영
+## &#127758; 생년월일: 곽우영
+## &#9993; e-mail: 곽우영
+
 
 
